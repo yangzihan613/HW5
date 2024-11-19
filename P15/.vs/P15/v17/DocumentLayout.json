@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yangz\\OneDrive\\Desktop\\!HW5\\P15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FEF1F15-4E2B-4B49-85DA-DB029D4E553D}|P15\\P15.vcxproj|C:\\Users\\yangz\\OneDrive\\Desktop\\!HW5\\P15\\source\\mian.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2FEF1F15-4E2B-4B49-85DA-DB029D4E553D}|P15\\P15.vcxproj|solutionrelative:source\\mian.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mian.c",
+              "DocumentMoniker": "C:\\Users\\yangz\\OneDrive\\Desktop\\!HW5\\P15\\source\\mian.c",
+              "RelativeDocumentMoniker": "source\\mian.c",
+              "ToolTip": "C:\\Users\\yangz\\OneDrive\\Desktop\\!HW5\\P15\\source\\mian.c",
+              "RelativeToolTip": "source\\mian.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-11-17T06:04:29.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

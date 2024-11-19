@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\yangz\OneDrive\Desktop\!HW5\P13\source\main.cpp(6,6): warning C4326: 'main' 的傳回類型應該是 'int'，而非 'void'
+C:\Users\yangz\OneDrive\Desktop\!HW5\P13\source\main.cpp(19,1): error C4716: 'cubeByvalue': 必須傳回值
