@@ -29,8 +29,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
               "ViewState": "AgIAACAEAAAAAAAAAAAwwCsEAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-19T13:38:41.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-19T13:38:41.257Z"
             },
             {
               "$type": "Document",
@@ -38,9 +37,9 @@
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\yangz\\OneDrive\\Desktop\\!HW5\\6.33\\source\\main.c",
               "RelativeDocumentMoniker": "source\\main.c",
-              "ToolTip": "C:\\Users\\yangz\\OneDrive\\Desktop\\!HW5\\6.33\\source\\main.c*",
-              "RelativeToolTip": "source\\main.c*",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACAAAAAyAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\yangz\\OneDrive\\Desktop\\!HW5\\6.33\\source\\main.c",
+              "RelativeToolTip": "source\\main.c",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACAAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-11-17T12:35:24.031Z",
               "EditorCaption": ""

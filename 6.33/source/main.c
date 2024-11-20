@@ -30,9 +30,9 @@ int binarySearch(int array[], int start, int end, int key) {
             return mid;
 
         if (array[mid] > key)
-            return binarySearch(array, start, mid , key);
+            return binarySearch(array, start, mid - 1 , key);
 
-        return binarySearch(array, mid , end, key);
+        return binarySearch(array, mid + 1 , end, key);
     }
 
     return -1;
